@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Primera Página</title>
+</head>
+<body>
+    <h1>Ciudad De La Eterna Primavera</h1>
+        <h2>Medellin</h2>
+    <p>Medellín no se explica, se camina. Se sube en bus con la música a todo taco, se baja en la esquina donde el saludo es un “¿qué más pues?” y se queda pegada en el pecho como ese calorcito que no se va ni con aguacero. Es una ciudad que madruga sin quejarse, que le pone verraquera al día y sonrisa a la dificultad, porque aquí llorar está permitido, pero rendirse jamás.
+</p>
+   <img src="https://as2.ftcdn.net/v2/jpg/06/45/11/43/1000_F_645114310_7oD7eWitOgAUJaq4fQJQGAkf35GAHuS4.jpg">
+  
+  <p> Aquí la gente no anda, camella. No sueña bajito, sueña en grande y trabaja más duro todavía. Cada barrio es una historia contada a pulso, cada loma es una promesa cumplida con sudor. Medellín es cicatriz y esperanza, caída y levantada, noche oscura y amanecer berraco.
+  </p>
+  <img src="https://as2.ftcdn.net/v2/jpg/03/53/26/35/1000_F_353263501_XQJnrlH8hoyd3TEOmIgKX1w1sup1wTIK.jpg">
+  <p> Y es que Medellín no es solo un lugar: es una forma de ser. Es llevar la tierrita en el corazón, la palabra firme en la boca y el respeto como bandera. Es sentirse orgulloso de lo que se es, sin olvidar de dónde se viene. Porque el que nace o se cría aquí, así se vaya lejos, siempre vuelve… aunque sea en la nostalgia.
+  </p>
+  
+  <p> Medellín es pues Medellín:
+verraca, asarosa y eterna.
+  </p>
+  
+  <a href="https://www.medellin.gov.co/"> Medallo </a>
+</body>
+</html>
